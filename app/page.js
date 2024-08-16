@@ -13,7 +13,7 @@ export default function Home() {
     // main component
     <main className="h-screen w-full flex items-center justify-center relative">
       <div className=" absolute top-20 lg:top-10">
-        <h1 className="text-3xl lg:text-6xl text-[#f27e3f] font-semibold">Sikandar&#39;s Clothings</h1>
+        <h1 className="text-3xl lg:text-6xl text-[#f27e3f] font-semibold">Rupen&#39;s Clothings</h1>
       </div>
       {/* container */}
       <div className="flex relative h-[50%] lg:h-[70%] w-[90%] lg:w-[60%] items-center justify-between bg-[#f1c8b2] rounded-xl overflow-hidden mt-5 lg:mt-24">
